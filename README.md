@@ -21,10 +21,12 @@ Enter email
 
 ![image](https://user-images.githubusercontent.com/73791070/202212034-f1a0b8e7-d82e-4fd9-9964-8a49ea2e9ec3.png)
 
-Movements Detected \n
+Movements Detected
+
 ![image](https://user-images.githubusercontent.com/73791070/202212186-7ffd42e5-a689-4dbc-aac6-1d2c62f96ab8.png)
 
 Email sent
+
 ![image](https://user-images.githubusercontent.com/73791070/202212443-99b9cef8-b7f1-49c1-811e-a1b8f53d806b.png)
 
 
