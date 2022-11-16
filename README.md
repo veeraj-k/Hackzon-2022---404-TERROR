@@ -18,9 +18,10 @@ Our project begins by taking a static reference image and then comparing it with
 
 #Screenshots:
 Enter email
+
 ![image](https://user-images.githubusercontent.com/73791070/202212034-f1a0b8e7-d82e-4fd9-9964-8a49ea2e9ec3.png)
 
-Movements Detected
+Movements Detected \n
 ![image](https://user-images.githubusercontent.com/73791070/202212186-7ffd42e5-a689-4dbc-aac6-1d2c62f96ab8.png)
 
 Email sent
