@@ -17,6 +17,7 @@ Our project begins by taking a static reference image and then comparing it with
 4. The movements will be captured and then sent to the entered email address.
 
 #Screenshots:
+
 Enter email
 
 ![image](https://user-images.githubusercontent.com/73791070/202212034-f1a0b8e7-d82e-4fd9-9964-8a49ea2e9ec3.png)
